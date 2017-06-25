@@ -1,0 +1,19 @@
+{
+  "name": "trump-bot-js_conversion",
+  "version": "1.0.0",
+  "description": "https://discordapp.com/oauth2/authorize?client_id=247869756609265664&scope=bot&permissions=0",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-gyp": "^3.6.2",
+    "opusscript": "0.0.3",
+    "python": "0.0.4",
+    "rebuild": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
